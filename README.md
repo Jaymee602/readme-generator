@@ -1,5 +1,14 @@
-# Professional README Generator Starter Code
+# README.md Generator
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+## Purpose
+Generate a professional README.md file for your project.
 
-Walk-through Video: <iframe src="https://drive.google.com/file/d/1OsGl8nGHX83858KasrWlRpCETXIt9Zu8/preview" width="640" height="480"></iframe>
+## Built with
+* JavaScript/jQuery
+* Inquirer
+
+## Website
+**https://jaymee602.github.io/readme-generator/**
+
+## Preview
+![Website preview](./Develop/demo_video/demo.mp4)
