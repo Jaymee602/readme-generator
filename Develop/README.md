@@ -26,5 +26,5 @@
   N/A
 
   ## Questions
-  Github: (https://github.com/jaymee602)
-  Email: N/a
+  - Github: (https://github.com/jaymee602)
+  - Email: N/a
