@@ -4,11 +4,8 @@
 Generate a professional README.md file for your project.
 
 ## Built with
-* JavaScript/jQuery
+* JavaScript
 * Inquirer
 
-## Website
-**https://jaymee602.github.io/readme-generator/**
-
-## Preview
-![Website preview](./Develop/demo_video/demo.mp4)
+## How To Use (Video Walk-Through)
+**https://watch.screencastify.com/v/yf0Kp8kxYi1UjU4qS4ME**
