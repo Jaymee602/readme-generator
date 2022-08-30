@@ -6,6 +6,7 @@ const generateMarkdown = require('./utils/generateMarkdown');
 // array of questions for user input
 const questions = () => {
     return inquirer.prompt([
+        // title of project
         {
             type: 'input',
             name: 'title',
@@ -19,6 +20,7 @@ const questions = () => {
                 }
             }
         },
+        // description of project
         {
             type: 'input',
             name: 'description',
@@ -32,6 +34,7 @@ const questions = () => {
                 }
             }
         },
+        // installation instructions
         {
             type: 'input',
             name: 'installation',
@@ -45,6 +48,7 @@ const questions = () => {
                 }
             }
         },
+        // usage
         {
             type: 'input',
             name: 'usage',
@@ -58,6 +62,7 @@ const questions = () => {
                 }
             }
         },
+        // license
         {
             type: 'list',
             name: 'license',
@@ -79,16 +84,19 @@ const questions = () => {
                 'No license'
             ]
         },
+        // contributing guidelines
         {
             type: 'input',
             name: 'contributing',
             message: 'Enter contributing guidelines for your project:'
         },
+        // tests
         {
             type: 'input',
             name: 'tests',
             message: 'Enter testing instructions for your project:'
         },
+        // username
         {
             type: 'input',
             name: 'username',
@@ -102,6 +110,7 @@ const questions = () => {
                 }
             }
         },
+        // email
         {
             type: 'input',
             name: 'email',
